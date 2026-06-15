@@ -56,20 +56,6 @@ class Divyadharshini:
 
 ---
 
-## `> cat ./stats.json`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyadharshini-k468&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyadharshini-k468&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadharshini-k468&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
-</div>
-
----
 
 ## `> git log --oneline --graph`
 
