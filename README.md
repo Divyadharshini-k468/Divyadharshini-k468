@@ -14,7 +14,11 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,git,github,linux" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
